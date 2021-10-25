@@ -15,7 +15,7 @@ Overall                    |  Languages
 :-------------------------:|:-------------------------:
 ![Semaffor's Stats](https://github-readme-stats.vercel.app/api?username=Semaffor&show_icons=true&theme=tokyonight&hide=contribs,prs)) | [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Semaffor&langs_count=8&layout=compact)](https://github.com/Semaffor)
 
-CodeWars                   |
+CodeWars                   |  Trophies
 :-------------------------:|:-------------------------:
 ![CodeWars badge for Semaffor](https://www.codewars.com/users/Semaffor/badges/large) | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Semaffor)](https://github.com/Semaffor/Semafor)
 ***
