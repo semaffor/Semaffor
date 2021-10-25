@@ -13,7 +13,7 @@ How to reach me:
 ***
 Overall                    |  Languages
 :-------------------------:|:-------------------------:
-![Semaffor's Stats](https://github-readme-stats.vercel.app/api?username=Semaffor&show_icons=true&theme=tokyonight&hide=contribs,prs)) | [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Semaffor&langs_count=8&layout=compact)](https://github.com/Semaffor)
+![Semaffor's Stats](https://github-readme-stats.vercel.app/api?username=Semaffor&show_icons=true&theme=tokyonight&hide=contribs,prs) | [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Semaffor&langs_count=8&layout=compact)](https://github.com/Semaffor)
 
 CodeWars                   | 
 :-------------------------:|
