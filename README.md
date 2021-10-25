@@ -15,7 +15,7 @@
 
 Overall                    |  Languages
 :-------------------------:|:-------------------------:
-![Semaffor's Stats](https://github-readme-stats.vercel.app/api?username=Semaffor&show_icons=true)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semaffor&langs_count=8&layout=compact)](https://github.com/GonnaFlyMethod)
+![Semaffor's Stats](https://github-readme-stats.vercel.app/api?username=Semaffor&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semaffor&langs_count=8&layout=compact)](https://github.com/GonnaFlyMethod)
 
 
 
