@@ -15,10 +15,10 @@
 
 Overall                    |  Languages
 :-------------------------:|:-------------------------:
-![GonnaFlyMethod's Stats](https://github-readme-stats.vercel.app/api?username=GonnaFlyMethod&show_icons=true)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonnaFlyMethod&langs_count=8&layout=compact)](https://github.com/GonnaFlyMethod)
+![Semaffor's Stats](https://github-readme-stats.vercel.app/api?username=Semaffor&show_icons=true)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semaffor&langs_count=8&layout=compact)](https://github.com/GonnaFlyMethod)
 
 
 
 CodeWars                   |  Trophies
 :-------------------------:|:-------------------------:
-![CodeWars badge for GonnaFlyMethod](https://www.codewars.com/users/GonnaFlyMethod/badges/large)  |  ![Profile trophy of @GonnaFlyMethodFlyMethod](https://github-profile-trophy.vercel.app/?username=GonnaFlyMethod)
+![CodeWars badge for Semaffor](https://www.codewars.com/users/Semaffor/badges/large)  |  ![Profile trophy of @Semaffor](https://github-profile-trophy.vercel.app/?username=Semaffor)
