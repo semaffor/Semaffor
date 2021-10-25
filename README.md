@@ -4,11 +4,11 @@
 - 🎮 I adore video games at all
 - 🌱 Currently learning Spring Framework
 - 💬 Feel free to chat me any time!
-How to reach me:
-      - Email me: dbuyvid@gmail.com
-      - [Telegram](https://t.me/DimonchQ/)
-      - [Follow me on Codewars](https://www.codewars.com/users/Semaffor/)
-      - [Add me on LinkedIn](https://www.linkedin.com/in/dima-buyvid-4b2a44172/)
+How to reach me:  
+      - Email me: dbuyvid@gmail.com  
+      - [Telegram](https://t.me/DimonchQ/)  
+      - [Follow me on Codewars](https://www.codewars.com/users/Semaffor/)  
+      - [Add me on LinkedIn](https://www.linkedin.com/in/dima-buyvid-4b2a44172/)  
 
 ***
 Overall                    |  Languages
