@@ -2,7 +2,7 @@
 
 - 🔭 I’m a student and I'm always ready to learn new things
 - 🎮 I adore video games at all
-- 🌱 Currently learning Go
+- 🌱 Currently learning everything
 - 💬 Feel free to chat me any time!
 How to reach me:  
       - Email me: dbuyvid@gmail.com  
